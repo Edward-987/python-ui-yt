@@ -19,3 +19,5 @@
 ## 注意事项
 - 下载与转换均在本地执行，无需外网API。
 - 若遇到权限或文件夹问题，请以管理员身份运行。
+-下载资源：https://github.com/BtbN/FFmpeg-Builds/releases
+         https://github.com/yt-dlp/yt-dlp/releases
